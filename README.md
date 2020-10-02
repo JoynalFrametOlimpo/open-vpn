@@ -1,5 +1,6 @@
 # open-vpn
-# Ref: https://github.com/kylemanna/docker-openvpn/blob/master/docs/docker-compose.md
+[Reference](https://github.com/kylemanna/docker-openvpn/blob/master/docs/docker-compose.md)
+
 
 * Initialize the configuration files and certificates
 
